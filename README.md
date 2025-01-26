@@ -2,6 +2,8 @@
 
 ### Overview
 The project aims to classify images from the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes, that include airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks. The project implements two different approaches that include a custom-designed CNN architecture built from scratch to serve as a performance benchmark and transfer-learning model that uses the VGG16 model pretrained on the ImageNet dataset. It fine-tunes it for the CIFAR-10 dataset to leverage the rich feature representations learned from a larger and more diverse dataset.
+
+
 Key Features:
 Data Loading and Preprocessing: Consists of scripts to load the CIFAR-10 dataset, normalize the images, and split the data into training, validation, and test sets.
 
