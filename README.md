@@ -5,6 +5,7 @@ The project aims to classify images from the CIFAR-10 dataset, which consists of
 
 
 Key Features:
+
 Data Loading and Preprocessing: Consists of scripts to load the CIFAR-10 dataset, normalize the images, and split the data into training, validation, and test sets.
 
 Model Development: The project includes scripts and Jupyter notebooks to build, train, and evaluate both the baseline CNN model and the transfer learning model.
